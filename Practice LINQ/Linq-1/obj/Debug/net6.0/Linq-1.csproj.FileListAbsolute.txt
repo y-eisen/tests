@@ -1,0 +1,14 @@
+D:\Program\Repositories\Tests\Practice LINQ\Linq-1\bin\Debug\net6.0\Linq-1.exe
+D:\Program\Repositories\Tests\Practice LINQ\Linq-1\bin\Debug\net6.0\Linq-1.deps.json
+D:\Program\Repositories\Tests\Practice LINQ\Linq-1\bin\Debug\net6.0\Linq-1.runtimeconfig.json
+D:\Program\Repositories\Tests\Practice LINQ\Linq-1\bin\Debug\net6.0\Linq-1.dll
+D:\Program\Repositories\Tests\Practice LINQ\Linq-1\bin\Debug\net6.0\ref\Linq-1.dll
+D:\Program\Repositories\Tests\Practice LINQ\Linq-1\bin\Debug\net6.0\Linq-1.pdb
+D:\Program\Repositories\Tests\Practice LINQ\Linq-1\obj\Debug\net6.0\Linq-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\Repositories\Tests\Practice LINQ\Linq-1\obj\Debug\net6.0\Linq-1.AssemblyInfoInputs.cache
+D:\Program\Repositories\Tests\Practice LINQ\Linq-1\obj\Debug\net6.0\Linq-1.AssemblyInfo.cs
+D:\Program\Repositories\Tests\Practice LINQ\Linq-1\obj\Debug\net6.0\Linq-1.csproj.CoreCompileInputs.cache
+D:\Program\Repositories\Tests\Practice LINQ\Linq-1\obj\Debug\net6.0\Linq-1.dll
+D:\Program\Repositories\Tests\Practice LINQ\Linq-1\obj\Debug\net6.0\ref\Linq-1.dll
+D:\Program\Repositories\Tests\Practice LINQ\Linq-1\obj\Debug\net6.0\Linq-1.pdb
+D:\Program\Repositories\Tests\Practice LINQ\Linq-1\obj\Debug\net6.0\Linq-1.genruntimeconfig.cache
