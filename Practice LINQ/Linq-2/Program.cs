@@ -35,8 +35,7 @@ namespace Task1
 
         static string[] GetAllStudentsShorter(Classroom[] classes)
         {
-            var result = classes.SelectMany(room => room.Students);
-            return result.ToArray();
+            return classes.SelectMany(room => room.Students).ToArray();
         }
 
 
