@@ -1,0 +1,8 @@
+D:\Program\Repositories\Tests\NUnit_HW_16_7_1\NUnit_Calculator\bin\Debug\NUnit_Calculator.exe.config
+D:\Program\Repositories\Tests\NUnit_HW_16_7_1\NUnit_Calculator\bin\Debug\NUnit_Calculator.exe
+D:\Program\Repositories\Tests\NUnit_HW_16_7_1\NUnit_Calculator\bin\Debug\NUnit_Calculator.pdb
+D:\Program\Repositories\Tests\NUnit_HW_16_7_1\NUnit_Calculator\obj\Debug\NUnit_Calculator.csproj.AssemblyReference.cache
+D:\Program\Repositories\Tests\NUnit_HW_16_7_1\NUnit_Calculator\obj\Debug\NUnit_Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Program\Repositories\Tests\NUnit_HW_16_7_1\NUnit_Calculator\obj\Debug\NUnit_Calculator.csproj.CoreCompileInputs.cache
+D:\Program\Repositories\Tests\NUnit_HW_16_7_1\NUnit_Calculator\obj\Debug\NUnit_Calculator.exe
+D:\Program\Repositories\Tests\NUnit_HW_16_7_1\NUnit_Calculator\obj\Debug\NUnit_Calculator.pdb

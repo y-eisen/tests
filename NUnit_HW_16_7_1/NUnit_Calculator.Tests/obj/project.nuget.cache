@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AKvRCNZwng3geUUkzaru3cJChNFZbHNyQsglmC2zZuO6i0pvHgviTCu0D3b98wGdqZgG5cpoGQxQB46+gSy6qg==",
+  "success": true,
+  "projectFilePath": "D:\\Program\\Repositories\\Tests\\NUnit_HW_16_7_1\\NUnit_Calculator.Tests\\NUnit_Calculator.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Юрий\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Юрий\\.nuget\\packages\\nunit3testadapter\\4.3.0\\nunit3testadapter.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

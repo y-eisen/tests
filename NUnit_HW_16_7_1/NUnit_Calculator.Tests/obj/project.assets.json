@@ -1,0 +1,245 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "NUnit/3.13.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "build": {
+          "build/NUnit.props": {}
+        }
+      },
+      "NUnit3TestAdapter/4.3.0": {
+        "type": "package",
+        "build": {
+          "build/net35/NUnit3TestAdapter.props": {}
+        }
+      },
+      "NUnit_Calculator/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/NUnit_Calculator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NUnit_Calculator.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "NUnit/3.13.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "build": {
+          "build/NUnit.props": {}
+        }
+      },
+      "NUnit3TestAdapter/4.3.0": {
+        "type": "package",
+        "build": {
+          "build/net35/NUnit3TestAdapter.props": {}
+        }
+      },
+      "NUnit_Calculator/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/NUnit_Calculator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NUnit_Calculator.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "NUnit/3.13.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "build": {
+          "build/NUnit.props": {}
+        }
+      },
+      "NUnit3TestAdapter/4.3.0": {
+        "type": "package",
+        "build": {
+          "build/net35/NUnit3TestAdapter.props": {}
+        }
+      },
+      "NUnit_Calculator/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/NUnit_Calculator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NUnit_Calculator.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "NUnit/3.13.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "build": {
+          "build/NUnit.props": {}
+        }
+      },
+      "NUnit3TestAdapter/4.3.0": {
+        "type": "package",
+        "build": {
+          "build/net35/NUnit3TestAdapter.props": {}
+        }
+      },
+      "NUnit_Calculator/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/NUnit_Calculator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NUnit_Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NUnit/3.13.3": {
+      "sha512": "KNPDpls6EfHwC3+nnA67fh5wpxeLb3VLFAfLxrug6JMYDLHH6InaQIWR7Sc3y75d/9IKzMksH/gi08W7XWbmnQ==",
+      "type": "package",
+      "path": "nunit/3.13.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CHANGES.md",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "build/NUnit.props",
+        "icon.png",
+        "lib/net35/nunit.framework.dll",
+        "lib/net35/nunit.framework.xml",
+        "lib/net40/nunit.framework.dll",
+        "lib/net40/nunit.framework.xml",
+        "lib/net45/nunit.framework.dll",
+        "lib/net45/nunit.framework.xml",
+        "lib/netstandard2.0/nunit.framework.dll",
+        "lib/netstandard2.0/nunit.framework.xml",
+        "nunit.3.13.3.nupkg.sha512",
+        "nunit.nuspec"
+      ]
+    },
+    "NUnit3TestAdapter/4.3.0": {
+      "sha512": "oXlDbkGW01VPPgI8P/XQ+PZHqaJoWtV90WuAkR0yN8HC3hiPivy2AaBZP3lqOql4RFqdxvF5qYSuaeWI+7/wGg==",
+      "type": "package",
+      "path": "nunit3testadapter/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/net35/NUnit3.TestAdapter.dll",
+        "build/net35/NUnit3.TestAdapter.pdb",
+        "build/net35/NUnit3TestAdapter.props",
+        "build/net35/nunit.engine.api.dll",
+        "build/net35/nunit.engine.core.dll",
+        "build/net35/nunit.engine.dll",
+        "build/net35/testcentric.engine.metadata.dll",
+        "build/netcoreapp2.1/NUnit3.TestAdapter.dll",
+        "build/netcoreapp2.1/NUnit3.TestAdapter.pdb",
+        "build/netcoreapp2.1/NUnit3TestAdapter.props",
+        "build/netcoreapp2.1/nunit.engine.api.dll",
+        "build/netcoreapp2.1/nunit.engine.core.dll",
+        "build/netcoreapp2.1/nunit.engine.dll",
+        "build/netcoreapp2.1/testcentric.engine.metadata.dll",
+        "nunit3testadapter.4.3.0.nupkg.sha512",
+        "nunit3testadapter.nuspec"
+      ]
+    },
+    "NUnit_Calculator/1.0.0": {
+      "type": "project",
+      "path": "../NUnit_Calculator/NUnit_Calculator.csproj",
+      "msbuildProject": "../NUnit_Calculator/NUnit_Calculator.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "NUnit >= 3.13.3",
+      "NUnit3TestAdapter >= 4.3.0",
+      "NUnit_Calculator >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Юрий\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Program\\Repositories\\Tests\\NUnit_HW_16_7_1\\NUnit_Calculator.Tests\\NUnit_Calculator.Tests.csproj",
+      "projectName": "NUnit_Calculator.Tests",
+      "projectPath": "D:\\Program\\Repositories\\Tests\\NUnit_HW_16_7_1\\NUnit_Calculator.Tests\\NUnit_Calculator.Tests.csproj",
+      "packagesPath": "C:\\Users\\Юрий\\.nuget\\packages\\",
+      "outputPath": "D:\\Program\\Repositories\\Tests\\NUnit_HW_16_7_1\\NUnit_Calculator.Tests\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Юрий\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\Downloads": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {
+            "D:\\Program\\Repositories\\Tests\\NUnit_HW_16_7_1\\NUnit_Calculator\\NUnit_Calculator.csproj": {
+              "projectPath": "D:\\Program\\Repositories\\Tests\\NUnit_HW_16_7_1\\NUnit_Calculator\\NUnit_Calculator.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "NUnit": {
+            "target": "Package",
+            "version": "[3.13.3, )"
+          },
+          "NUnit3TestAdapter": {
+            "target": "Package",
+            "version": "[4.3.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

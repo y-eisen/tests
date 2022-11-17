@@ -1,0 +1,6 @@
+Translator/bin
+Translator/obj
+Translator.Tests/obj
+Translator.Tests/bin
+.vs
+packages

@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Program\\Repositories\\Tests\\NUnit_HW_16_7_1\\NUnit_Calculator.Tests\\NUnit_Calculator.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Program\\Repositories\\Tests\\NUnit_HW_16_7_1\\NUnit_Calculator.Tests\\NUnit_Calculator.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Program\\Repositories\\Tests\\NUnit_HW_16_7_1\\NUnit_Calculator.Tests\\NUnit_Calculator.Tests.csproj",
+        "projectName": "NUnit_Calculator.Tests",
+        "projectPath": "D:\\Program\\Repositories\\Tests\\NUnit_HW_16_7_1\\NUnit_Calculator.Tests\\NUnit_Calculator.Tests.csproj",
+        "packagesPath": "C:\\Users\\Юрий\\.nuget\\packages\\",
+        "outputPath": "D:\\Program\\Repositories\\Tests\\NUnit_HW_16_7_1\\NUnit_Calculator.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Юрий\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Downloads": {},
+          "D:\\Downloads": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Program\\Repositories\\Tests\\NUnit_HW_16_7_1\\NUnit_Calculator\\NUnit_Calculator.csproj": {
+                "projectPath": "D:\\Program\\Repositories\\Tests\\NUnit_HW_16_7_1\\NUnit_Calculator\\NUnit_Calculator.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Program\\Repositories\\Tests\\NUnit_HW_16_7_1\\NUnit_Calculator\\NUnit_Calculator.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Program\\Repositories\\Tests\\NUnit_HW_16_7_1\\NUnit_Calculator\\NUnit_Calculator.csproj",
+        "projectName": "NUnit_Calculator",
+        "projectPath": "D:\\Program\\Repositories\\Tests\\NUnit_HW_16_7_1\\NUnit_Calculator\\NUnit_Calculator.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

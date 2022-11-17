@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6bf5c9b4-3848-4bef-b7c5-b8fb1ba72c99": {
+      "ProjectGuid": "6bf5c9b4-3848-4bef-b7c5-b8fb1ba72c99",
+      "DisplayName": "NUnit_Calculator",
+      "ColorIndex": 0
+    },
+    "240212a8-f740-4613-84e8-45edc745cae1": {
+      "ProjectGuid": "240212a8-f740-4613-84e8-45edc745cae1",
+      "DisplayName": "NUnit_Calculator.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
